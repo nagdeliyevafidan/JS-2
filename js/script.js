@@ -33,3 +33,9 @@ for (let i = 0; i < telebeler.length; i++) {
 }
 
 console.log(newTable(telebeler));
+
+function hesabla(eded1, eded2) {
+    return eded1 + eded2
+}
+
+console.log(hesabla(10,14))
